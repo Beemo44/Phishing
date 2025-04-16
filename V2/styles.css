@@ -1,0 +1,216 @@
+*
+{
+    padding: 0;
+    margin: 0;  
+}
+
+@font-face {
+    font-family: 'microsoft';
+    src: url(./28511428043.ttf);
+}
+
+body
+{
+    font-family: 'microsoft';
+}
+/* NAV*/
+nav
+{
+    display: flex;
+    flex-direction: row;
+    background-color: #006fc9;
+    justify-content: left;
+    gap: 75px;
+    padding-top: 0.8em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    font-size: 1.1em;
+    color: white;
+}
+
+.stick
+{
+    background-color: white;
+    height: 28px;
+    width: 2px;
+}
+.menu
+{
+    display: flex;
+    flex-direction: row;
+    gap: 3em;
+    padding-top: 18px;
+}
+.microsoft
+{
+    
+    transition: ease-in-out 0.3s;
+    border-radius: 10px ;
+    padding: 10px;
+}
+.burger
+{
+    filter: invert(100%);
+    width: 2em;
+    
+    transition: ease-in-out 0.3s;    
+}
+.microsoft:hover
+{
+    background-color: rgba(255, 255, 255, 0.192);
+}
+
+
+
+
+/*MAIN*/
+
+.main
+{
+
+    font-size: 20px;
+    margin-left: 16em;
+    margin-top: 2em;
+}
+
+#title
+{
+    padding-bottom: 1em;
+    font-size: 40px;
+    font-weight: lighter;
+}
+#tips
+{
+    padding-bottom: 15px;
+}
+.c100 > p
+{
+   padding-bottom: 12px; 
+}
+.c101 > p
+{
+    padding-top: 20px;
+    padding-bottom:12px ;
+}
+.c101 > .forgot_password
+{
+    padding: 0;
+}
+
+.c102 > p
+{
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+.c103 > p
+{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#type_of_password
+{
+    padding-top: 10px;
+}
+
+
+form
+{
+    display: flex;
+    flex-direction: column;
+}
+#mail
+{
+    border:solid rgb(117, 117, 117) 3px;
+    width: 500px;
+    height: 30px;
+    font-size: 17px;
+}
+
+#actual_password
+{
+    border:solid rgb(117, 117, 117) 3px;
+    width: 500px;
+    height: 30px;
+    font-size: 17px;
+}
+
+#new_password
+{
+    border:solid rgb(117, 117, 117) 3px;
+    width: 500px;
+    height: 30px;
+    font-size: 17px;
+}
+
+#type_of_password
+{
+    font-size: 15px;
+}
+
+
+#confirm_new_password
+{
+    border:solid rgb(117, 117, 117) 3px;
+    width: 500px;
+    height: 30px;
+    font-size: 17px;
+}
+
+.forgot_password
+{
+    color:#00abd6 ;
+}
+
+#submit
+{
+    background-color:#006fc9;
+    width: 120px;
+    height: 50px;
+    color: white;
+    font-size: 17px;
+    border-style: none;
+    margin-top: 50px;
+    transition: 0.3s;
+}
+#submit:hover
+{
+    background-color: #3889cc;
+}
+
+::placeholder
+{
+    padding-left: 10px;
+}
+
+/*THANKS*/
+
+
+h1
+{
+    padding-top: 50px;
+    
+}
+
+h3
+{
+    padding-top: 50px;
+
+}
+
+.thanks
+{
+    animation: fadein 0.5s;
+}
+
+@keyframes fadein {
+    0% {
+        opacity:0;
+    }
+    50%{
+        opacity:0.5;
+    }
+    100% {
+        opacity:1;
+    }
+}
