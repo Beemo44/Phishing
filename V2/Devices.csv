@@ -1,133 +1,133 @@
 Status,Hostname,Type,Last User,OS,Manufacturer,Internal IP,Site
-Online,SRV-DATAS,Server,domrabas\adm-proselisT1,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.3,SOFIRA - CSOFI01
-Online,SRV-EXPERT,Server,domrabas\adm-proselisT1,Microsoft Windows Server 2012 R2 Standard 6.3.9600,"VMware, Inc.",172.16.10.8,SOFIRA - CSOFI01
-Online,SRV-TOPSMEAN,Server,domrabas\adm-proselisT1,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.9,SOFIRA - CSOFI01
-Online,SRV-TSE1,Server,domrabas\p.raby,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.5,SOFIRA - CSOFI01
-Online,SRV-WEB,Server,root,Linux Debian GNU/Linux 12 (bookworm),"VMware, Inc.",172.16.10.12,SOFIRA - CSOFI01
-Online,SRV-TOPSGRON,Server,domrabas\adm-proselist1,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.17.10.2,SOFIRA - CSOFI01
-Online,CH-FX-23,Desktop,domrabas\c.rousselle,Microsoft Windows 10 Professionnel 10.0.18363,Dell Inc.,172.16.2.2,SOFIRA - CSOFI01
-Online,MN-PT-10,Laptop,domrabas\f.dasse,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.80,SOFIRA - CSOFI01
-Offline,PR-FIX-03,Desktop,domrabas\laboratoire,Microsoft Windows 10 Professionnel 10.0.19045,Intel(R) Client Systems,192.168.20.61,SOFIRA - CSOFI01
-Online,MN-PT-17,Laptop,domrabas\b.billion,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.86,SOFIRA - CSOFI01
-Online,MN-PT-19,Laptop,domrabas\a.merrien,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.43,SOFIRA - CSOFI01
-Online,MN-FX-23,Desktop,domrabas\s.moyon,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.35,SOFIRA - CSOFI01
-Online,PR-FIX-07,Desktop,domrabas\p.prevaire,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.62,SOFIRA - CSOFI01
-Online,GR-FX-14,Desktop,domrabas\jl.chevalier,Microsoft Windows 10 Professionnel 10.0.19045,"Micro-Star International Co., Ltd.",172.17.2.12,SOFIRA - CSOFI01
-Online,PR-FIX-02,Desktop,domrabas\atelier2,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.58,SOFIRA - CSOFI01
-Online,CH-FX-24,Desktop,domrabas\c.chotard,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.1,SOFIRA - CSOFI01
-Online,MN-FX-07,Desktop,domrabas\g.seiller,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.55,SOFIRA - CSOFI01
-Online,CH-FX-116,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.8,SOFIRA - CSOFI01
-Online,PC-QUARTIS2,Desktop,domrabas\m.broband,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.40,SOFIRA - CSOFI01
-Online,PR-FIX-05,Desktop,domrabas\h.jamai,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.52,SOFIRA - CSOFI01
-Online,MN-PT-14,Laptop,domrabas\c.francois,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,192.168.20.64,SOFIRA - CSOFI01
-Online,CH-PROD-02,Desktop,domrabas\machine70,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.12,SOFIRA - CSOFI01
-Online,MN-FX-28,Desktop,domrabas\expedition,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.18,SOFIRA - CSOFI01
-Online,CH-FX-WZ2,Desktop,domrabas\controle-3D,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,172.16.2.14,SOFIRA - CSOFI01
-Online,CH-PROD-101,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.16,SOFIRA - CSOFI01
-Online,CH-FX-WZ1,Desktop,domrabas\controle-3D,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.7,SOFIRA - CSOFI01
-Online,GR-FX-12,Desktop,domrabas\t.salliou,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.5,SOFIRA - CSOFI01
-Online,MN-FX-21,Desktop,domrabas\s.crinier,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.8,SOFIRA - CSOFI01
-Online,MN-PT-21,Laptop,domrabas\v.judic,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.42,SOFIRA - CSOFI01
-Online,MN-FX-29,Desktop,domrabas\equipement.airbus,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.5.87,SOFIRA - CSOFI01
-Online,CH-FX-115,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.4,SOFIRA - CSOFI01
-Online,CH-FX-113,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.7,SOFIRA - CSOFI01
-Online,CH-FX-111,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.5,SOFIRA - CSOFI01
-Online,GR-FX-10,Desktop,domrabas\magasin.gron,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.17,SOFIRA - CSOFI01
-Online,PR-FIX-04,Desktop,domrabas\a.lebugle,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.63,SOFIRA - CSOFI01
-Online,CH-FX-22,Desktop,domrabas\r.josso,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.41,SOFIRA - CSOFI01
-Online,MN-FX-26,Desktop,domrabas\l.triballeau,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.68,SOFIRA - CSOFI01
-Online,MN-PT-12,Laptop,domrabas\s.zagorski,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.58,SOFIRA - CSOFI01
-Online,MN-FX-24,Desktop,domrabas\expedition,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.23,SOFIRA - CSOFI01
-Online,GR-FX-13,Desktop,domrabas\p.bompoil,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.16,SOFIRA - CSOFI01
-Online,CH-FX-114,Desktop,domrabas\machine,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.6,SOFIRA - CSOFI01
-Online,MN-PT-18,Laptop,domrabas\a.rabas,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.45,SOFIRA - CSOFI01
-Offline,MN-PT-16,Laptop,domrabas\m.avila,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.1.11,SOFIRA - CSOFI01
-Online,MN-FX-03,Desktop,domrabas\CTL,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.13,SOFIRA - CSOFI01
-Offline,MN-FX-17,Desktop,domrabas\p.gaudin,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.47,SOFIRA - CSOFI01
-Online,CH-FX-01,Desktop,domrabas\d.gruget,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.23,SOFIRA - CSOFI01
-Online,MN-PT-05,Laptop,domrabas\v.chauvet,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.62,SOFIRA - CSOFI01
-Online,PC-QUARTIS3,Desktop,domrabas\l.eon,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.44,SOFIRA - CSOFI01
-Offline,CH-FX-08,Desktop,domrabas\magasin,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.61,SOFIRA - CSOFI01
-Online,PR-FIX-06,Desktop,domrabas\jb.raveneau,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.60,SOFIRA - CSOFI01
-Offline,CH-FX-03,Desktop,domrabas\m.freulon,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.19,SOFIRA - CSOFI01
-Online,PR-FIX-01,Desktop,domrabas\atelier2,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.56,SOFIRA - CSOFI01
-Offline,CH-FX-09,Desktop,domrabas\a.lucotte,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.10,SOFIRA - CSOFI01
-Online,GR-FX-04,Desktop,domrabas\j.laudrin,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.15,SOFIRA - CSOFI01
-Online,MN-PT-24,Laptop,domrabas\l.bastaert,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.11,SOFIRA - CSOFI01
-Online,MN-PT-20,Laptop,domrabas\c.segui,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.26,SOFIRA - CSOFI01
-Online,MN-SRV-APP,Server,domrabas\adm-proselist1,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.16,SOFIRA - CSOFI01
-Online,MN-SRV-DC,Server,domrabas\adm-proselis,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.15,SOFIRA - CSOFI01
-Online,MN-SRV-VBR,Server,MN-SRV-VBR\adm-proselis,Microsoft Windows Server 2022 Standard 10.0.20348,Dell Inc.,172.16.10.14,SOFIRA - CSOFI01
-Online,GN-SRV-DC,Server,domrabas\adm-proselis,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.17.10.15,SOFIRA - CSOFI01
-Online,GN-SRV-DATAS,Server,domrabas\adm-proselist1,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.17.10.16,SOFIRA - CSOFI01
-Online,GN-SRV-VBR,Server,GN-SRV-VBR\adm-proselis,Microsoft Windows Server 2022 Standard 10.0.20348,"VMware, Inc.",172.17.10.17,SOFIRA - CSOFI01
-Online,MN-PT-25,Laptop,domrabas\e.bizeul,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.6,SOFIRA - CSOFI01
-Online,MH-FX-01,Desktop,domrabas\a.hervy,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.16.2.32,SOFIRA - CSOFI01
-Online,PC-QUARTIS,Laptop,domrabas\equipement.safran,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,172.16.3.36,SOFIRA - CSOFI01
-Online,MN-SRV-WSUS,Server,domrabas\adm-proselist1,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.18,SOFIRA - CSOFI01
-Online,MN-FX-33,Desktop,domrabas\s.bellouet,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.3.22,SOFIRA - CSOFI01
-Offline,MN-FX-31,Desktop,domrabas\s.bellouet,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.3.56,SOFIRA - CSOFI01
-Online,MN-PT-27,Laptop,domrabas\j.lebaron,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.42,SOFIRA - CSOFI01
-Online,MN-PT-26,Laptop,domrabas\j.boisseau,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.3.2,SOFIRA - CSOFI01
-Online,GN-FX-15,Desktop,domrabas\j.cheron,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.17.2.10,SOFIRA - CSOFI01
-Online,MN-FX-38,Desktop,domrabas\magasin,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.16,SOFIRA - CSOFI01
-Online,MN-FX-37,Desktop,domrabas\jp.lem,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.4.11,SOFIRA - CSOFI01
-Offline,MN-FX-36,Desktop,domrabas\magasin,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.57,SOFIRA - CSOFI01
-Online,MH-FX-02,Desktop,domrabas\c.beault,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.4.13,SOFIRA - CSOFI01
-Online,MH-FX-03,Desktop,domrabas\f.richard,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.2.11,SOFIRA - CSOFI01
-Online,MN-PT-45,Laptop,domrabas\f.boursier,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.3.21,SOFIRA - CSOFI01
-Online,MN-PT-28,Laptop,domrabas\a.bedard,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.58,SOFIRA - CSOFI01
-Online,MN-PT-29,Laptop,domrabas\m.darmont,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.2.17,SOFIRA - CSOFI01
-Online,MN-PT-32,Laptop,domrabas\m.malzac,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.31,SOFIRA - CSOFI01
-Online,MN-PT-44,Laptop,domrabas\l.mornet,Microsoft Windows 11 Professionnel 10.0.22621,HP,172.16.3.51,SOFIRA - CSOFI01
-Online,PR-PT-04,Laptop,domrabas\g.boucard,Microsoft Windows 11 Professionnel 10.0.22631,HP,172.16.3.72,SOFIRA - CSOFI01
-Online,MN-PT-33,Laptop,domrabas\reception,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.10.70,SOFIRA - CSOFI01
-Online,MN-PT-34,Laptop,domrabas\a.bernard,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.2.9,SOFIRA - CSOFI01
-Online,MN-PT-38,Laptop,domrabas\a.sanemeterio,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.100.5,SOFIRA - CSOFI01
-Online,MN-PT-36,Laptop,domrabas\fl.bail,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.28,SOFIRA - CSOFI01
-Offline,MN-PT-37,Laptop,domrabas\s.dupont,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.3.69,SOFIRA - CSOFI01
-Online,MN-PT-42,Laptop,domrabas\d.dinatale,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.24,SOFIRA - CSOFI01
-Online,MN-PT-41,Laptop,domrabas\a.guillotin,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.56,SOFIRA - CSOFI01
-Offline,MN-PT-39,Laptop,domrabas\d.caugant,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.2,SOFIRA - CSOFI01
-Online,MN-PT-40,Laptop,domrabas\c.savary,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.76,SOFIRA - CSOFI01
-Online,MN-PT-43,Laptop,domrabas\a.barondeau,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.34,SOFIRA - CSOFI01
-Online,MN-PT-31,Laptop,domrabas\s.feredie,Microsoft Windows 11 Professionnel 10.0.22631,HP,172.16.3.74,SOFIRA - CSOFI01
-Online,CH-FX-26,Desktop,domrabas\m.tran-ext,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.33,SOFIRA - CSOFI01
-Online,MN-SRV-SQL,Server,domrabas\manager,Microsoft Windows Server 2022 Datacenter 10.0.20348,"VMware, Inc.",172.16.10.22,SOFIRA - CSOFI01
-Online,MN-SRV-APP-01,Server,domrabas\MANAGER,Microsoft Windows Server 2022 Datacenter 10.0.20348,"VMware, Inc.",172.16.10.21,SOFIRA - CSOFI01
-Online,MN-PT-47,Laptop,domrabas\h.avril,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.38,SOFIRA - CSOFI01
-Online,MN-PT-46,Laptop,domrabas\m.avila,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.27,SOFIRA - CSOFI01
-Online,MN-PT-49,Laptop,domrabas\l.vandycke,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.29,SOFIRA - CSOFI01
-Online,CH-FX-27,Desktop,domrabas\n.poustoly,Microsoft Windows 11 Professionnel 10.0.22631,"Gigabyte Technology Co., Ltd.",172.16.2.49,SOFIRA - CSOFI01
-Offline,MN-FX-40,Desktop,domrabas\equipement.safran,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.51,SOFIRA - CSOFI01
-Online,MN-PT-48,Laptop,domrabas\s.diaz,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.20,SOFIRA - CSOFI01
-Offline,MN-PT-53,Laptop,domrabas\m.munier,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.65,SOFIRA - CSOFI01
-Online,MN-PT-51,Laptop,domrabas\m.ormel,Microsoft Windows 11 Professionnel 10.0.26100,LENOVO,172.16.3.47,SOFIRA - CSOFI01
-Online,MN-PT-52,Laptop,domrabas\equipement.safran,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.85,SOFIRA - CSOFI01
-Online,MN-PT-54,Laptop,domrabas\j.lefebvre,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.70,SOFIRA - CSOFI01
-Offline,MN-PT-56,Laptop,domrabas\louise.bastaert,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.44,SOFIRA - CSOFI01
-Online,MN-PT-55,Laptop,domrabas\s.dupont,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.62,SOFIRA - CSOFI01
-Online,MN-PT-57,Laptop,domrabas\h.gouin-ext,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.37,SOFIRA - CSOFI01
-Offline,MN-PT-58,Laptop,domrabas\d.gautier-ext,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.54,SOFIRA - CSOFI01
-Online,PR-FIX-08,Desktop,domrabas\atelier2,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.1,SOFIRA - CSOFI01
-Online,Rabas-Bck,Desktop,RABAS-BCK\Supervision,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.3,SOFIRA - CSOFI01
-Online,Rabas-Opw,Desktop,RABAS-OPW\Optiflow,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.6,SOFIRA - CSOFI01
-Online,GR-FX-07,Desktop,domrabas\production03,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.12,SOFIRA - CSOFI01
-Online,GR-FX-09,Desktop,domrabas\production02,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.11,SOFIRA - CSOFI01
-Online,GR-FX-06,Desktop,domrabas\production01,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.10,SOFIRA - CSOFI01
-Online,MN-PT-59,Laptop,domrabas\f.moinard,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.3.40,SOFIRA - CSOFI01
-Offline,MN-PT-22,Laptop,domrabas\l.lebus,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.4,SOFIRA - CSOFI01
-Offline,CH-FX-27,Desktop,domrabas\r.simon,Microsoft Windows 11 Professionnel 10.0.22631,LDLC,172.16.2.18,SOFIRA - CSOFI01
-Online,MN-PT-50,Laptop,domrabas\r.talbourdel,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.25,SOFIRA - CSOFI01
-Online,MN-PT-61,Laptop,domrabas\v.passaia,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.2.3,SOFIRA - CSOFI01
-Online,MN-PT-60,Laptop,domrabas\s.cambard,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.2.12,SOFIRA - CSOFI01
-Online,CH-FX-25,Desktop,domrabas\b.mille,Microsoft Windows 10 Professionnel 10.0.19045,"Micro-Star International Co., Ltd.",172.17.2.23,SOFIRA - CSOFI01
-Offline,CH-FX-28,Desktop,domrabas\m.freulon,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.2.24,SOFIRA - CSOFI01
-Online,MH-FX-04,Desktop,domrabas\d.gruget,Microsoft Windows 11 Professionnel 10.0.26100,"Gigabyte Technology Co., Ltd.",172.16.2.22,SOFIRA - CSOFI01
-Offline,MN-PT-09,Laptop,,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.3.91,SOFIRA - CSOFI01
-Online,EXT-MN-PT-01,Laptop,EXT-MN-PT-01\emasson,Microsoft Windows 11 Professionnel 10.0.26100,HP,172.16.100.12,SOFIRA - CSOFI01
-Offline,MN-PT-01,Laptop,domrabas\a.bedard,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.7,SOFIRA - CSOFI01
-Online,PR-PT-02,Laptop,domrabas\atelier2,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,192.168.20.53,SOFIRA - CSOFI01
-Offline,PR-PT-01,Laptop,domrabas\a.barondeau,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.1.17,SOFIRA - CSOFI01
-Offline,PR-PT-01,Laptop,domrabas\a.barondeau,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,::1,SOFIRA - CSOFI01
-Offline,PR-PT-01,Laptop,domrabas\localhost,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,127.0.0.1,SOFIRA - CSOFI01
+Online,SRV-DATAS,Server,domain\user-1,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.3,SOFIRA - CSOFI01
+Online,SRV-EXPERT,Server,domain\user-2,Microsoft Windows Server 2012 R2 Standard 6.3.9600,"VMware, Inc.",172.16.10.8,SOFIRA - CSOFI01
+Online,SRV-TOPSMEAN,Server,domain\user-3,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.9,SOFIRA - CSOFI01
+Online,SRV-TSE1,Server,domain\user-4,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.16.10.5,SOFIRA - CSOFI01
+Online,SRV-WEB,Server,domain\user-5,Linux Debian GNU/Linux 12 (bookworm),"VMware, Inc.",172.16.10.12,SOFIRA - CSOFI01
+Online,SRV-TOPSGRON,Server,domain\user-6,Microsoft Windows Server 2016 Standard 10.0.14393,"VMware, Inc.",172.17.10.2,SOFIRA - CSOFI01
+Online,CH-FX-23,Desktop,domain\user-7,Microsoft Windows 10 Professionnel 10.0.18363,Dell Inc.,172.16.2.2,SOFIRA - CSOFI01
+Online,MN-PT-10,Laptop,domain\user-8,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.80,SOFIRA - CSOFI01
+Offline,PR-FIX-03,Desktop,domain\user-9,Microsoft Windows 10 Professionnel 10.0.19045,Intel(R) Client Systems,192.168.20.61,SOFIRA - CSOFI01
+Online,MN-PT-17,Laptop,domain\user-10,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.86,SOFIRA - CSOFI01
+Online,MN-PT-19,Laptop,domain\user-11,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.43,SOFIRA - CSOFI01
+Online,MN-FX-23,Desktop,domain\user-12,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.35,SOFIRA - CSOFI01
+Online,PR-FIX-07,Desktop,domain\user-13,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.62,SOFIRA - CSOFI01
+Online,GR-FX-14,Desktop,domain\user-14,Microsoft Windows 10 Professionnel 10.0.19045,"Micro-Star International Co., Ltd.",172.17.2.12,SOFIRA - CSOFI01
+Online,PR-FIX-02,Desktop,domain\user-15,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.58,SOFIRA - CSOFI01
+Online,CH-FX-24,Desktop,domain\user-16,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.1,SOFIRA - CSOFI01
+Online,MN-FX-07,Desktop,domain\user-17,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.55,SOFIRA - CSOFI01
+Online,CH-FX-116,Desktop,domain\user-18,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.8,SOFIRA - CSOFI01
+Online,PC-QUARTIS2,Desktop,domain\user-19,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.40,SOFIRA - CSOFI01
+Online,PR-FIX-05,Desktop,domain\user-20,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.52,SOFIRA - CSOFI01
+Online,MN-PT-14,Laptop,domain\user-21,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,192.168.20.64,SOFIRA - CSOFI01
+Online,CH-PROD-02,Desktop,domain\user-22,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.12,SOFIRA - CSOFI01
+Online,MN-FX-28,Desktop,domain\user-23,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.18,SOFIRA - CSOFI01
+Online,CH-FX-WZ2,Desktop,domain\user-24,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,172.16.2.14,SOFIRA - CSOFI01
+Online,CH-PROD-101,Desktop,domain\user-25,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.16,SOFIRA - CSOFI01
+Online,CH-FX-WZ1,Desktop,domain\user-26,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.7,SOFIRA - CSOFI01
+Online,GR-FX-12,Desktop,domain\user-27,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.5,SOFIRA - CSOFI01
+Online,MN-FX-21,Desktop,domain\user-28,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.8,SOFIRA - CSOFI01
+Online,MN-PT-21,Laptop,domain\user-29,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.42,SOFIRA - CSOFI01
+Online,MN-FX-29,Desktop,domain\user-30,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.5.87,SOFIRA - CSOFI01
+Online,CH-FX-115,Desktop,domain\user-31,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.4,SOFIRA - CSOFI01
+Online,CH-FX-113,Desktop,domain\user-32,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.7,SOFIRA - CSOFI01
+Online,CH-FX-111,Desktop,domain\user-33,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.5,SOFIRA - CSOFI01
+Online,GR-FX-10,Desktop,domain\user-34,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.17,SOFIRA - CSOFI01
+Online,PR-FIX-04,Desktop,domain\user-35,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.63,SOFIRA - CSOFI01
+Online,CH-FX-22,Desktop,domain\user-36,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.41,SOFIRA - CSOFI01
+Online,MN-FX-26,Desktop,domain\user-37,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.68,SOFIRA - CSOFI01
+Online,MN-PT-12,Laptop,domain\user-38,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.58,SOFIRA - CSOFI01
+Online,MN-FX-24,Desktop,domain\user-39,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.23,SOFIRA - CSOFI01
+Online,GR-FX-13,Desktop,domain\user-40,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.16,SOFIRA - CSOFI01
+Online,CH-FX-114,Desktop,domain\user-41,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.4.6,SOFIRA - CSOFI01
+Online,MN-PT-18,Laptop,domain\user-42,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.45,SOFIRA - CSOFI01
+Offline,MN-PT-16,Laptop,domain\user-43,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.1.11,SOFIRA - CSOFI01
+Online,MN-FX-03,Desktop,domain\user-44,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.13,SOFIRA - CSOFI01
+Offline,MN-FX-17,Desktop,domain\user-45,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.47,SOFIRA - CSOFI01
+Online,CH-FX-01,Desktop,domain\user-46,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.23,SOFIRA - CSOFI01
+Online,MN-PT-05,Laptop,domain\user-47,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.62,SOFIRA - CSOFI01
+Online,PC-QUARTIS3,Desktop,domain\user-48,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.44,SOFIRA - CSOFI01
+Offline,CH-FX-08,Desktop,domain\user-49,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.61,SOFIRA - CSOFI01
+Online,PR-FIX-06,Desktop,domain\user-50,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.60,SOFIRA - CSOFI01
+Offline,CH-FX-03,Desktop,domain\user-51,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.19,SOFIRA - CSOFI01
+Online,PR-FIX-01,Desktop,domain\user-52,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.20.56,SOFIRA - CSOFI01
+Offline,CH-FX-09,Desktop,domain\user-53,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.10,SOFIRA - CSOFI01
+Online,GR-FX-04,Desktop,domain\user-54,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.2.15,SOFIRA - CSOFI01
+Online,MN-PT-24,Laptop,domain\user-55,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.11,SOFIRA - CSOFI01
+Online,MN-PT-20,Laptop,domain\user-56,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.26,SOFIRA - CSOFI01
+Online,MN-SRV-APP,Server,domain\user-57,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.16,SOFIRA - CSOFI01
+Online,MN-SRV-DC,Server,domain\user-58,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.15,SOFIRA - CSOFI01
+Online,MN-SRV-VBR,Server,domain\user-59,Microsoft Windows Server 2022 Standard 10.0.20348,Dell Inc.,172.16.10.14,SOFIRA - CSOFI01
+Online,GN-SRV-DC,Server,domain\user-60,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.17.10.15,SOFIRA - CSOFI01
+Online,GN-SRV-DATAS,Server,domain\user-61,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.17.10.16,SOFIRA - CSOFI01
+Online,GN-SRV-VBR,Server,domain\user-62,Microsoft Windows Server 2022 Standard 10.0.20348,"VMware, Inc.",172.17.10.17,SOFIRA - CSOFI01
+Online,MN-PT-25,Laptop,domain\user-63,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.6,SOFIRA - CSOFI01
+Online,MH-FX-01,Desktop,domain\user-64,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.16.2.32,SOFIRA - CSOFI01
+Online,PC-QUARTIS,Laptop,domain\user-65,Microsoft Windows 10 Professionnel 10.0.19042,Dell Inc.,172.16.3.36,SOFIRA - CSOFI01
+Online,MN-SRV-WSUS,Server,domain\user-66,Microsoft Windows Server 2019 Datacenter 10.0.17763,"VMware, Inc.",172.16.10.18,SOFIRA - CSOFI01
+Online,MN-FX-33,Desktop,domain\user-67,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.3.22,SOFIRA - CSOFI01
+Offline,MN-FX-31,Desktop,domain\user-68,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.3.56,SOFIRA - CSOFI01
+Online,MN-PT-27,Laptop,domain\user-69,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.42,SOFIRA - CSOFI01
+Online,MN-PT-26,Laptop,domain\user-70,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.3.2,SOFIRA - CSOFI01
+Online,GN-FX-15,Desktop,domain\user-71,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.17.2.10,SOFIRA - CSOFI01
+Online,MN-FX-38,Desktop,domain\user-72,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.16,SOFIRA - CSOFI01
+Online,MN-FX-37,Desktop,domain\user-73,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.4.11,SOFIRA - CSOFI01
+Offline,MN-FX-36,Desktop,domain\user-74,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.57,SOFIRA - CSOFI01
+Online,MH-FX-02,Desktop,domain\user-75,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.4.13,SOFIRA - CSOFI01
+Online,MH-FX-03,Desktop,domain\user-76,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.2.11,SOFIRA - CSOFI01
+Online,MN-PT-45,Laptop,domain\user-77,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.3.21,SOFIRA - CSOFI01
+Online,MN-PT-28,Laptop,domain\user-78,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.58,SOFIRA - CSOFI01
+Online,MN-PT-29,Laptop,domain\user-79,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.2.17,SOFIRA - CSOFI01
+Online,MN-PT-32,Laptop,domain\user-80,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.2.31,SOFIRA - CSOFI01
+Online,MN-PT-44,Laptop,domain\user-81,Microsoft Windows 11 Professionnel 10.0.22621,HP,172.16.3.51,SOFIRA - CSOFI01
+Online,PR-PT-04,Laptop,domain\user-82,Microsoft Windows 11 Professionnel 10.0.22631,HP,172.16.3.72,SOFIRA - CSOFI01
+Online,MN-PT-33,Laptop,domain\user-83,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.10.70,SOFIRA - CSOFI01
+Online,MN-PT-34,Laptop,domain\user-84,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.2.9,SOFIRA - CSOFI01
+Online,MN-PT-38,Laptop,domain\user-85,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.100.5,SOFIRA - CSOFI01
+Online,MN-PT-36,Laptop,domain\user-86,Microsoft Windows 11 Professionnel 10.0.22621,LENOVO,172.16.2.28,SOFIRA - CSOFI01
+Offline,MN-PT-37,Laptop,domain\user-87,Microsoft Windows 11 Professionnel 10.0.22631,LENOVO,172.16.3.69,SOFIRA - CSOFI01
+Online,MN-PT-42,Laptop,domain\user-88,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.24,SOFIRA - CSOFI01
+Online,MN-PT-41,Laptop,domain\user-89,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.56,SOFIRA - CSOFI01
+Offline,MN-PT-39,Laptop,domain\user-90,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.2,SOFIRA - CSOFI01
+Online,MN-PT-40,Laptop,domain\user-91,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.76,SOFIRA - CSOFI01
+Online,MN-PT-43,Laptop,domain\user-92,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.34,SOFIRA - CSOFI01
+Online,MN-PT-31,Laptop,domain\user-93,Microsoft Windows 11 Professionnel 10.0.22631,HP,172.16.3.74,SOFIRA - CSOFI01
+Online,CH-FX-26,Desktop,domain\user-94,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.2.33,SOFIRA - CSOFI01
+Online,MN-SRV-SQL,Server,domain\user-95,Microsoft Windows Server 2022 Datacenter 10.0.20348,"VMware, Inc.",172.16.10.22,SOFIRA - CSOFI01
+Online,MN-SRV-APP-01,Server,domain\user-96,Microsoft Windows Server 2022 Datacenter 10.0.20348,"VMware, Inc.",172.16.10.21,SOFIRA - CSOFI01
+Online,MN-PT-47,Laptop,domain\user-97,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.38,SOFIRA - CSOFI01
+Online,MN-PT-46,Laptop,domain\user-98,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.27,SOFIRA - CSOFI01
+Online,MN-PT-49,Laptop,domain\user-99,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.29,SOFIRA - CSOFI01
+Online,CH-FX-27,Desktop,domain\user-100,Microsoft Windows 11 Professionnel 10.0.22631,"Gigabyte Technology Co., Ltd.",172.16.2.49,SOFIRA - CSOFI01
+Offline,MN-FX-40,Desktop,domain\user-101,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.51,SOFIRA - CSOFI01
+Online,MN-PT-48,Laptop,domain\user-102,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.20,SOFIRA - CSOFI01
+Offline,MN-PT-53,Laptop,domain\user-103,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.65,SOFIRA - CSOFI01
+Online,MN-PT-51,Laptop,domain\user-104,Microsoft Windows 11 Professionnel 10.0.26100,LENOVO,172.16.3.47,SOFIRA - CSOFI01
+Online,MN-PT-52,Laptop,domain\user-105,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.85,SOFIRA - CSOFI01
+Online,MN-PT-54,Laptop,domain\user-106,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.70,SOFIRA - CSOFI01
+Offline,MN-PT-56,Laptop,domain\user-107,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.44,SOFIRA - CSOFI01
+Online,MN-PT-55,Laptop,domain\user-108,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.62,SOFIRA - CSOFI01
+Online,MN-PT-57,Laptop,domain\user-109,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.3.37,SOFIRA - CSOFI01
+Offline,MN-PT-58,Laptop,domain\user-110,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.54,SOFIRA - CSOFI01
+Online,PR-FIX-08,Desktop,domain\user-111,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.1,SOFIRA - CSOFI01
+Online,Rabas-Bck,Desktop,domain\user-112,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.3,SOFIRA - CSOFI01
+Online,Rabas-Opw,Desktop,domain\user-113,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.21.6,SOFIRA - CSOFI01
+Online,GR-FX-07,Desktop,domain\user-114,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.12,SOFIRA - CSOFI01
+Online,GR-FX-09,Desktop,domain\user-115,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.11,SOFIRA - CSOFI01
+Online,GR-FX-06,Desktop,domain\user-116,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.17.4.10,SOFIRA - CSOFI01
+Online,MN-PT-59,Laptop,domain\user-117,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.3.40,SOFIRA - CSOFI01
+Offline,MN-PT-22,Laptop,domain\user-118,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.4,SOFIRA - CSOFI01
+Offline,CH-FX-27,Desktop,domain\user-119,Microsoft Windows 11 Professionnel 10.0.22631,LDLC,172.16.2.18,SOFIRA - CSOFI01
+Online,MN-PT-50,Laptop,domain\user-120,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,172.16.2.25,SOFIRA - CSOFI01
+Online,MN-PT-61,Laptop,domain\user-121,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.2.3,SOFIRA - CSOFI01
+Online,MN-PT-60,Laptop,domain\user-122,Microsoft Windows 11 Professionnel 10.0.26100,Dell Inc.,172.16.2.12,SOFIRA - CSOFI01
+Online,CH-FX-25,Desktop,domain\user-123,Microsoft Windows 10 Professionnel 10.0.19045,"Micro-Star International Co., Ltd.",172.17.2.23,SOFIRA - CSOFI01
+Offline,CH-FX-28,Desktop,domain\user-124,Microsoft Windows 11 Professionnel 10.0.22621,"Gigabyte Technology Co., Ltd.",172.17.2.24,SOFIRA - CSOFI01
+Online,MH-FX-04,Desktop,domain\user-125,Microsoft Windows 11 Professionnel 10.0.26100,"Gigabyte Technology Co., Ltd.",172.16.2.22,SOFIRA - CSOFI01
+Offline,MN-PT-09,Laptop,domain\user-126,Microsoft Windows 11 Professionnel 10.0.22621,Dell Inc.,172.16.3.91,SOFIRA - CSOFI01
+Online,EXT-MN-PT-01,Laptop,domain\user-127,Microsoft Windows 11 Professionnel 10.0.26100,HP,172.16.100.12,SOFIRA - CSOFI01
+Offline,MN-PT-01,Laptop,domain\user-128,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.7,SOFIRA - CSOFI01
+Online,PR-PT-02,Laptop,domain\user-129,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,192.168.20.53,SOFIRA - CSOFI01
+Offline,PR-PT-01,Laptop,domain\user-130,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.1.17,SOFIRA - CSOFI01
+Offline,PR-PT-01,Laptop,domain\toto-Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,::1,SOFIRA - CSOFI01
+Offline,PR-PT-01,Laptop,domain\user-140,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,127.0.0.1,SOFIRA - CSOFI01
