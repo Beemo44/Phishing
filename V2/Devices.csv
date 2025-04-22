@@ -129,5 +129,5 @@ Online,EXT-MN-PT-01,Laptop,domain\user-127,Microsoft Windows 11 Professionnel 10
 Offline,MN-PT-01,Laptop,domain\user-128,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,172.16.3.7,SOFIRA - CSOFI01
 Online,PR-PT-02,Laptop,domain\user-129,Microsoft Windows 11 Professionnel 10.0.22631,Dell Inc.,192.168.20.53,SOFIRA - CSOFI01
 Offline,PR-PT-01,Laptop,domain\user-130,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,192.168.1.17,SOFIRA - CSOFI01
-Offline,PR-PT-01,Laptop,domain\toto-Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,::1,SOFIRA - CSOFI01
+Offline,PR-PT-01,Laptop,domain\toto,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,::1,SOFIRA - CSOFI01
 Offline,PR-PT-01,Laptop,domain\user-140,Microsoft Windows 10 Professionnel 10.0.19045,Dell Inc.,127.0.0.1,SOFIRA - CSOFI01
