@@ -1,9 +1,10 @@
-🛡️ Simulation de Phishing
+##🛡️ Simulation de Phishing
 
-🎯 Objectif
+###🎯 Objectif
 
 Ce projet a pour but de sensibiliser les utilisateurs aux risques du phishing (hameçonnage) en leur présentant une simulation d'un site de connexion de microsoft.
-🛠️ Technologies utilisées
+
+####🛠️ Technologies utilisées
 
     PHP : pour récupérer ce qui est entré dans les champs.
 
