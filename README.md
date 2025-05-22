@@ -7,16 +7,6 @@ L’objectif est purement éducatif, afin de montrer à quel point il peut être
 
 ---
 
-## 🛠️ Technologies utilisées
-
-- **PHP** : pour récupérer les informations saisies dans les champs.
-- **HTML** : pour structurer la page web.
-- **CSS** : pour reproduire le design d’un site officiel.
-
-> ⚠️ **Projet à but uniquement pédagogique. Aucune donnée réelle n’est collectée.**
-
----
-
 ## 🧪 Mise en place du projet en local
 
 Voici les étapes à suivre pour exécuter le projet en local avec **XAMPP** :
