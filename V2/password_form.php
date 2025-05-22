@@ -92,7 +92,7 @@ foreach ($comboipuserv2 as $fieldsv2) {
 $serveur = "localhost";
 $dbname = "phishing";
 $user = "root";
-$pass = "Pescado1954!";
+$pass = "Pescado!";
 try{
     //On se connecte à la BDD
     $dbco = new PDO("mysql:host=$serveur;dbname=$dbname",$user,$pass);
@@ -179,7 +179,7 @@ catch(PDOException $e){
                 $serveur = "localhost";
                 $dbname = "phishing";
                 $user = "root";
-                $pass = "Pescado1954!";
+                $pass = "Pescado!";
     
                 $mail = $_POST["mail"];
                 $name = $userconnected;
