@@ -29,6 +29,20 @@ Voici les étapes à suivre pour exécuter le projet en local avec **XAMPP** :
    ```text
    C:\xampp\htdocs\dashboard\
    ```
-   
+
+3. **Démarrer les services Apache et MySQL**  
+Lancez le panneau de contrôle XAMPP et démarrez :
+- Apache
+- MySQL
+
+4. **Accéder à la simulation**  
+Ouvrez votre navigateur et rendez-vous à l'adresse suivante :  
+[http://localhost/dashboard/phishing/V2/password_form.php](http://localhost/dashboard/phishing/V2/password_form.php)
+
+5. **Accéder à phpMyAdmin**  
+Pour gérer votre base de données localement, accédez à :  
+[http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+
+---
 
 ![phishing](https://github.com/user-attachments/assets/92825fae-3e11-4fac-b73b-0fa64202ccc6)
