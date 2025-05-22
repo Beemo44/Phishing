@@ -27,8 +27,8 @@ Lancez le panneau de contrôle XAMPP et démarrez :
 Ouvrez votre navigateur et rendez-vous à l'adresse suivante :  
 [http://localhost/dashboard/phishing/V2/password_form.php](http://localhost/dashboard/phishing/V2/password_form.php)
 
-5. **Accéder à phpMyAdmin**  
-Pour gérer votre base de données localement, accédez à :  
+5. **Accéder à la base de données (phpMyAdmin)**  
+Ouvrez votre navigateur et rendez-vous à l'adresse suivante:  
 [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
 ---
