@@ -70,7 +70,7 @@ $ipconnected = $csvfile[$w][6] ;
 //nombre random + 5 = user
 //nombre random + 6 = ip
 
-//je ne sais plus pourquoi mais la première fois que je l'ai fait j'ai cherché pendant 1h et grâce à ça ça fait une sorte de conversion que repasse la valeur en array 
+
 $comboipuser[$userconnected] = $ipconnected ;
 $comboipuserv2[$ipconnected] = $userconnected ; 
 
@@ -89,11 +89,41 @@ foreach ($comboipuserv2 as $fieldsv2) {
 
 }
 
+
 $serveur = "localhost";
 $dbname = "phishing";
 $user = "root";
 $pass = "Pescado!";
-try{
+try {
+    // Connexion initiale sans base spécifiée
+    $pdo = new PDO("mysql:host=$serveur", $user, $pass);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+    // Création de la base de données si elle n'existe pas
+    $pdo->exec("CREATE DATABASE IF NOT EXISTS $dbname CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci");
+
+    // Connexion à la base créée
+    $dbco_init = new PDO("mysql:host=$serveur;dbname=$dbname", $user, $pass);
+    $dbco_init->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+    // Création de la table si elle n'existe pas
+    $sqlTable = "
+        CREATE TABLE IF NOT EXISTS pescado (
+            id INT AUTO_INCREMENT PRIMARY KEY,
+            mail VARCHAR(255),
+            name VARCHAR(255),
+            ip VARCHAR(45),
+            date_visit DATE
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+    ";
+    $dbco_init->exec($sqlTable);
+} catch(PDOException $e) {
+    echo 'Erreur de création : '.$e->getMessage();
+}
+
+// Je regarde si la methode de requête est bien get pour éviter de remplir la BDD à nouveau au moment de sumbit en POST
+if ($_SERVER['REQUEST_METHOD'] === 'GET'){
+    try{
     //On se connecte à la BDD
     $dbco = new PDO("mysql:host=$serveur;dbname=$dbname",$user,$pass);
     $dbco->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -104,17 +134,19 @@ try{
     $date = date('Y-m-d');           // La date d'aujourd'hui, sous la forme AAAA-MM-JJ
 
     // Mise à jour de la base de données
-    // 1. On initialise la requête préparée
+    // On initialise la requête préparée
     $query = $dbco->prepare("
         INSERT INTO pescado (ip, name,  date_visit) VALUES (?,?,?)
     ");
-    // 2. On execute la requête préparée avec nos paramètres
+    // On execute la requête préparée avec nos paramètres
     $query->execute(array($ip, $name, $date));
 }
 
 catch(PDOException $e){
     echo 'Impossible de traiter les données. Erreur : '.$e->getMessage();
 }
+}
+
 
 
 
