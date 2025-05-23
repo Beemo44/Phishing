@@ -93,7 +93,7 @@ foreach ($comboipuserv2 as $fieldsv2) {
 $serveur = "localhost";
 $dbname = "phishing";
 $user = "root";
-$pass = "Pescado!";
+$pass = "";
 try {
     // Connexion initiale sans base spécifiée
     $pdo = new PDO("mysql:host=$serveur", $user, $pass);
@@ -211,7 +211,7 @@ catch(PDOException $e){
                 $serveur = "localhost";
                 $dbname = "phishing";
                 $user = "root";
-                $pass = "Pescado!";
+                $pass = "";
     
                 $mail = $_POST["mail"];
                 $name = $userconnected;
