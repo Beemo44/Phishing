@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif
 
-Ce projet a pour but de **sensibiliser les utilisateurs aux risques du phishing (hameçonnage)** en leur présentant une **simulation d'un site de connexion de Microsoft**.  
+Ce projet a pour but de **sensibiliser les utilisateurs aux risques du phishing  en leur présentant une **simulation d'un site de connexion de Microsoft**.  
 L’objectif est purement éducatif, afin de montrer à quel point il peut être facile de reproduire un site légitime pour piéger des utilisateurs.
 
 ## 🧪 Mise en place du projet en local
